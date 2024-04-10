@@ -13,7 +13,7 @@ public class MusicPlaybackManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        string filePath = "/Users/peterofarrell/Desktop/fourth_year/Augmented_Reality/project/2-bar-quaver.xml";
+        string filePath = "/Users/peterofarrell/Desktop/fourth_year/Augmented_Reality/project/demo piano/Music/Example-3.xml";
         (rightHandNotes, leftHandNotes) = SheetMusicParser.ParseXML(filePath);
         colourKeys = PianoKeyManager.GetPianoKeys();
         StartCoroutine(RightHandPlayMusic());
@@ -31,11 +31,11 @@ public class MusicPlaybackManager : MonoBehaviour
                 yield return new WaitForSeconds(note.StartTime - currentTime);
                 currentTime = note.StartTime;
             }
-            colourKeys[note.Position].ToggleHighlight(true);
+            colourKeys[note.Position].ToggleHighlight(1);
             Debug.Log("Playing note" + note.Position);
             Debug.Log("Duration" + note.Duration);
             yield return new WaitForSeconds(note.Duration);
-            colourKeys[note.Position].ToggleHighlight(false);
+            colourKeys[note.Position].ToggleHighlight(0);
             currentTime += note.Duration;
         }
     }
@@ -49,11 +49,11 @@ public class MusicPlaybackManager : MonoBehaviour
                 yield return new WaitForSeconds(note.StartTime - currentTime);
                 currentTime = note.StartTime;
             }
-            colourKeys[note.Position].ToggleHighlight(true);
+            colourKeys[note.Position].ToggleHighlight(2);
             Debug.Log("Playing note" + note.Position);
             Debug.Log("Duration" + note.Duration);
             yield return new WaitForSeconds(note.Duration);
-            colourKeys[note.Position].ToggleHighlight(false);
+            colourKeys[note.Position].ToggleHighlight(0);
             currentTime += note.Duration;
         }
     }
