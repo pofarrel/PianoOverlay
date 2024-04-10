@@ -148,6 +148,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 5109431}
 --- !u!1 &9321103 stripped
 GameObject:
@@ -174,6 +175,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 9321105}
 --- !u!1 &9610322 stripped
 GameObject:
@@ -200,6 +202,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 9610324}
 --- !u!1 &22562001 stripped
 GameObject:
@@ -226,6 +229,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 22562003}
 --- !u!1 &22640824 stripped
 GameObject:
@@ -252,6 +256,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 22640826}
 --- !u!1 &89021590 stripped
 GameObject:
@@ -278,6 +283,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 89021592}
 --- !u!1 &106214252 stripped
 GameObject:
@@ -304,6 +310,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 106214254}
 --- !u!1 &109880287 stripped
 GameObject:
@@ -330,6 +337,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 109880289}
 --- !u!1 &119496103 stripped
 GameObject:
@@ -356,6 +364,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 119496105}
 --- !u!1 &199273387 stripped
 GameObject:
@@ -382,6 +391,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 199273389}
 --- !u!1 &234695901 stripped
 GameObject:
@@ -408,6 +418,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 234695903}
 --- !u!1 &249679603 stripped
 GameObject:
@@ -434,6 +445,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 249679605}
 --- !u!1 &270163422 stripped
 GameObject:
@@ -460,6 +472,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 270163424}
 --- !u!1 &283815581 stripped
 GameObject:
@@ -486,6 +499,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 283815583}
 --- !u!1 &287124367 stripped
 GameObject:
@@ -512,6 +526,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 287124369}
 --- !u!1 &301907648 stripped
 GameObject:
@@ -538,6 +553,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 301907650}
 --- !u!1 &337214089 stripped
 GameObject:
@@ -559,7 +575,13 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
-  objectRenderer: {fileID: 0}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
+  objectRenderer: {fileID: 337214095}
+--- !u!23 &337214095 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2647511899284437762, guid: 1c529a5866ef34ab8a76f117118d5cf5, type: 3}
+  m_PrefabInstance: {fileID: 1693676982}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &363169374 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1337534288925220598, guid: 1c529a5866ef34ab8a76f117118d5cf5, type: 3}
@@ -585,6 +607,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 363169376}
 --- !u!1 &367376626 stripped
 GameObject:
@@ -611,6 +634,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 367376628}
 --- !u!1 &371989517 stripped
 GameObject:
@@ -637,6 +661,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 371989519}
 --- !u!1 &377863058 stripped
 GameObject:
@@ -663,6 +688,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 377863060}
 --- !u!1 &402652620 stripped
 GameObject:
@@ -689,6 +715,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 402652622}
 --- !u!1 &411598760 stripped
 GameObject:
@@ -715,6 +742,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 411598762}
 --- !u!1 &485450924
 GameObject:
@@ -786,6 +814,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 496635963}
 --- !u!1 &575870607 stripped
 GameObject:
@@ -812,6 +841,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 575870609}
 --- !u!1 &595226524 stripped
 GameObject:
@@ -838,6 +868,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 595226526}
 --- !u!1 &604323403 stripped
 GameObject:
@@ -864,6 +895,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 604323405}
 --- !u!1 &626245662 stripped
 GameObject:
@@ -890,6 +922,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 626245664}
 --- !u!1 &637778229 stripped
 GameObject:
@@ -916,6 +949,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 637778231}
 --- !u!1 &671054010 stripped
 GameObject:
@@ -942,6 +976,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 671054012}
 --- !u!1 &705507993
 GameObject:
@@ -1062,6 +1097,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 765967994}
 --- !u!1 &770559233 stripped
 GameObject:
@@ -1088,6 +1124,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 770559235}
 --- !u!1 &801511231 stripped
 GameObject:
@@ -1114,6 +1151,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 801511233}
 --- !u!1 &839157166 stripped
 GameObject:
@@ -1140,6 +1178,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 839157168}
 --- !u!1 &858103432 stripped
 GameObject:
@@ -1166,6 +1205,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 858103434}
 --- !u!1 &874062215
 GameObject:
@@ -1298,6 +1338,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 885632082}
 --- !u!1 &921964439 stripped
 GameObject:
@@ -1324,6 +1365,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 921964441}
 --- !u!65 &921964444
 BoxCollider:
@@ -1371,6 +1413,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 931321948}
 --- !u!1 &963194225
 GameObject:
@@ -1457,13 +1500,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 454, y: 336, z: 624}
+  m_LocalRotation: {x: 0.6225146, y: 0, z: 0, w: 0.7826082}
+  m_LocalPosition: {x: 455, y: 424, z: 507}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 77, y: 0, z: 0}
 --- !u!1 &997690973 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1408498985582169047, guid: 1c529a5866ef34ab8a76f117118d5cf5, type: 3}
@@ -1489,6 +1532,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 997690975}
 --- !u!1 &1016154715 stripped
 GameObject:
@@ -1515,6 +1559,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1016154717}
 --- !u!1 &1051108220 stripped
 GameObject:
@@ -1541,6 +1586,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1051108222}
 --- !u!1 &1081535068 stripped
 GameObject:
@@ -1567,6 +1613,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1081535070}
 --- !u!1 &1092705708 stripped
 GameObject:
@@ -1593,6 +1640,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1092705710}
 --- !u!1 &1100319104 stripped
 GameObject:
@@ -1619,6 +1667,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1100319106}
 --- !u!1 &1158674922 stripped
 GameObject:
@@ -1645,6 +1694,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1158674923}
 --- !u!1 &1164197745 stripped
 GameObject:
@@ -1671,6 +1721,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1164197747}
 --- !u!1 &1164483991 stripped
 GameObject:
@@ -1697,6 +1748,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1164483993}
 --- !u!1 &1192119271 stripped
 GameObject:
@@ -1723,6 +1775,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1192119273}
 --- !u!1 &1217899770 stripped
 GameObject:
@@ -1749,6 +1802,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1217899772}
 --- !u!1 &1228386367 stripped
 GameObject:
@@ -1775,6 +1829,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1228386369}
 --- !u!65 &1228386372
 BoxCollider:
@@ -1822,6 +1877,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1232112434}
 --- !u!1 &1257607377 stripped
 GameObject:
@@ -1848,6 +1904,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1257607379}
 --- !u!1 &1280268217 stripped
 GameObject:
@@ -1874,6 +1931,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1280268219}
 --- !u!1 &1315731123 stripped
 GameObject:
@@ -1900,6 +1958,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1315731125}
 --- !u!1 &1327982342 stripped
 GameObject:
@@ -1926,6 +1985,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1327982344}
 --- !u!1 &1346072223 stripped
 GameObject:
@@ -1952,6 +2012,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1346072225}
 --- !u!1 &1382760731 stripped
 GameObject:
@@ -1978,6 +2039,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1382760733}
 --- !u!1 &1391610636 stripped
 GameObject:
@@ -2004,6 +2066,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1391610638}
 --- !u!1 &1407425058 stripped
 GameObject:
@@ -2030,6 +2093,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1407425060}
 --- !u!1 &1419207572 stripped
 GameObject:
@@ -2056,6 +2120,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1419207574}
 --- !u!65 &1419207577
 BoxCollider:
@@ -2103,6 +2168,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1449372932}
 --- !u!1 &1478899799 stripped
 GameObject:
@@ -2129,6 +2195,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1478899801}
 --- !u!1 &1492159363 stripped
 GameObject:
@@ -2155,6 +2222,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1492159365}
 --- !u!1 &1509155486 stripped
 GameObject:
@@ -2181,6 +2249,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1509155488}
 --- !u!1 &1534287973 stripped
 GameObject:
@@ -2207,6 +2276,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1534287975}
 --- !u!1 &1572548648 stripped
 GameObject:
@@ -2233,6 +2303,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1572548650}
 --- !u!1 &1578700055 stripped
 GameObject:
@@ -2259,6 +2330,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1578700057}
 --- !u!1 &1579226648 stripped
 GameObject:
@@ -2285,6 +2357,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1579226650}
 --- !u!1 &1608985476 stripped
 GameObject:
@@ -2311,6 +2384,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1608985478}
 --- !u!1 &1666654586 stripped
 GameObject:
@@ -2337,6 +2411,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1666654588}
 --- !u!1 &1666889134 stripped
 GameObject:
@@ -2363,6 +2438,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1666889136}
 --- !u!1 &1683927939 stripped
 GameObject:
@@ -2389,6 +2465,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1683927941}
 --- !u!1001 &1693676982
 PrefabInstance:
@@ -2753,6 +2830,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1713745977}
 --- !u!1 &1764175716 stripped
 GameObject:
@@ -2779,6 +2857,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1764175718}
 --- !u!1 &1774266824 stripped
 GameObject:
@@ -2805,6 +2884,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1774266826}
 --- !u!1 &1791795191 stripped
 GameObject:
@@ -2831,6 +2911,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1791795193}
 --- !u!1 &1794533764 stripped
 GameObject:
@@ -2857,6 +2938,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1794533766}
 --- !u!1 &1813138346 stripped
 GameObject:
@@ -2883,6 +2965,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1813138348}
 --- !u!1 &1853384663 stripped
 GameObject:
@@ -2904,6 +2987,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 402652622}
 --- !u!1 &1860242738 stripped
 GameObject:
@@ -2930,6 +3014,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1860242740}
 --- !u!1 &1872613890
 GameObject:
@@ -3024,6 +3109,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1893843768}
 --- !u!1 &1923823186 stripped
 GameObject:
@@ -3050,6 +3136,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1923823188}
 --- !u!1 &1959490523 stripped
 GameObject:
@@ -3076,6 +3163,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: 98ffc33316dfb4a2a893c45ada7f206c, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 1959490525}
 --- !u!1 &2092595512 stripped
 GameObject:
@@ -3102,6 +3190,7 @@ MonoBehaviour:
   materials:
   - {fileID: 2100000, guid: f59b5f4fa456d457698707bb8cce8765, type: 2}
   - {fileID: 2100000, guid: 78f8332d6fbce40eca9aa70854e0897b, type: 2}
+  - {fileID: 2100000, guid: 57a945338a45349bf9247235633e4fb1, type: 2}
   objectRenderer: {fileID: 2092595514}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

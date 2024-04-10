@@ -17,11 +17,15 @@ public class ColourKeys : MonoBehaviour
 
     }
    
-    public void ToggleHighlight(bool val)
+    public void ToggleHighlight(int val) //0 = no colour, 1 = red, 2 = green
     {
-        if (val)
+        if (val == 1)
         {
             objectRenderer.material = materials[1];
+        }
+        else if(val == 2)
+        {
+            objectRenderer.material = materials[2];
         }
         else
         {
